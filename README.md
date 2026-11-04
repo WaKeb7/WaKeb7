@@ -1,3 +1,4 @@
+![MasterHead](https://i.redd.it/n8agw6z2smyb1.gif)
 <h1 align="center">Hi 👋, I'm Wako K.</h1>
 <h3 align="center">Software Engineer</h3>
 
