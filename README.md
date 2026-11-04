@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Wako K.</h1>
 <h3 align="center">Software Engineer</h3>
 
+<p align="center"><img src="assets/banner.svg" alt="Wako K. — Software Engineer" width="100%" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wk-wako" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
